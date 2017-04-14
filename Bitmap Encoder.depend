@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1492162220 source:c:\users\frank\dropbox\programming\c\bitmap encoder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"tinydir.h"
+	"bitmap.h"
+	"pixel.h"
+	"constants.h"
+
+1492039069 c:\users\frank\dropbox\programming\c\bitmap encoder\include\tinydir.h
+	<errno.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<tchar.h>
+	<dirent.h>
+	<libgen.h>
+	<sys/stat.h>
+	<stddef.h>
+	<tchar.h>
+	<windows.h>
+	<linux/limits.h>
+	<unistd.h>
+	<sys/types.h>
+
+1492162086 c:\users\frank\dropbox\programming\c\bitmap encoder\include\bitmap.h
+	"pixel.h"
+
+1492161881 c:\users\frank\dropbox\programming\c\bitmap encoder\include\pixel.h
+
+1492162194 c:\users\frank\dropbox\programming\c\bitmap encoder\include\constants.h
+
+1492162344 source:c:\users\frank\dropbox\programming\c\bitmap encoder\src\bitmap.c
+	<stdio.h>
+	"bitmap.h"
+	"constants.h"
+
+1492161865 source:c:\users\frank\dropbox\programming\c\bitmap encoder\src\pixel.c
+	"pixel.h"
+
