@@ -1,0 +1,12 @@
+
+Library/
+
+bin/
+
+input/
+
+obj/
+
+*.txt
+
+Conversion/
